@@ -423,6 +423,7 @@ foo({
 * [Best Practices for Designing a Pragmatic RESTful API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 * [Thoughts on RESTful API Design](http://restful-api-design.readthedocs.org/en/latest/)
 * [The RESTful CookBook](http://restcookbook.com/)
+* [Google API 设计指南](https://docs.cloud.google.com/apis/design) - 这是一份从 2014 年起开始在 Google 内部使用的的 API 设计指南，我没有看完，不过觉得如果问题的时候过去看看找找灵感可能也不错。“本指南是一份活文档，随着时间的推移，我们会采纳和批准新的风格和设计模式，为本指南增加相关内容。本着这种精神，我们会不断完善本指南，并为 API 设计的艺术和技巧提供充足的空间。”
 
 [iso3166-1]: javascript:;
 [iso3166-1_wiki]: http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
